@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Cornouaille",
+        "province": "XVII_Tours",
         "source": "116_Cornouaille.txt"
       },
       "geometry": {

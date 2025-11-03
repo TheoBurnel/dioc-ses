@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Cahors",
+        "province": "II_Albi",
         "source": "8_Cahors.txt"
       },
       "geometry": {

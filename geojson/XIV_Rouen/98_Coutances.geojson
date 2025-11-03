@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Coutances",
+        "province": "XIV_Rouen",
         "source": "98_Coutances.txt"
       },
       "geometry": {

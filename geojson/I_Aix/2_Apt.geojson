@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Apt",
+        "province": "I_Aix",
         "source": "2_Apt.txt"
       },
       "geometry": {

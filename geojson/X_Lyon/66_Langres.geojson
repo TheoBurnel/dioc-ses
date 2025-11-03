@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Langres",
+        "province": "X_Lyon",
         "source": "66_Langres.txt"
       },
       "geometry": {

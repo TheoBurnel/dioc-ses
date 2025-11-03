@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saint-Omer",
+        "province": "VIII_Cambrai",
         "source": "53_Saint-Omer.txt"
       },
       "geometry": {

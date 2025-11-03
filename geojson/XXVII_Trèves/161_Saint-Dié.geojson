@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saint-Dié",
+        "province": "XXVII_Trèves",
         "source": "161_Saint-Dié.txt"
       },
       "geometry": {

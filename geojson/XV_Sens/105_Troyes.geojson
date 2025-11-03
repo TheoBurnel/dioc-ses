@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Troyes",
+        "province": "XV_Sens",
         "source": "105_Troyes.txt"
       },
       "geometry": {

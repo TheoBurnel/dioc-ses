@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Lescar",
+        "province": "IV_Auch",
         "source": "27_Lescar.txt"
       },
       "geometry": {

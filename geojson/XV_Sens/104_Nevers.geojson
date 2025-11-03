@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Nevers",
+        "province": "XV_Sens",
         "source": "104_Nevers.txt"
       },
       "geometry": {

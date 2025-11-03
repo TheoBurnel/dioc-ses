@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Senlis",
+        "province": "XIII_Reims",
         "source": "92_Senlis.txt"
       },
       "geometry": {

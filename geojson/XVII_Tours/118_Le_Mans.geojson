@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Le_Mans",
+        "province": "XVII_Tours",
         "source": "118_Le_Mans.txt"
       },
       "geometry": {

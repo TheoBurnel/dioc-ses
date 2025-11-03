@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Châlons",
+        "province": "XIII_Reims",
         "source": "89_Châlons.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Metz",
+        "province": "XXVII_Trèves",
         "source": "159_Metz.txt"
       },
       "geometry": {
@@ -12385,6 +12387,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Metz",
+        "province": "XXVII_Trèves",
         "source": "159_Metz.txt"
       },
       "geometry": {

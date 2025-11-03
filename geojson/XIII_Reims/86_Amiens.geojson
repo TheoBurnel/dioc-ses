@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Amiens",
+        "province": "XIII_Reims",
         "source": "86_Amiens.txt"
       },
       "geometry": {

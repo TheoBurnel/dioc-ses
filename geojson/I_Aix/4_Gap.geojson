@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Gap",
+        "province": "I_Aix",
         "source": "4_Gap.txt"
       },
       "geometry": {

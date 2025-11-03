@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saint-Pons-de-Thomières",
+        "province": "XI_Narbonne",
         "source": "78_Saint-Pons-de-Thomières.txt"
       },
       "geometry": {

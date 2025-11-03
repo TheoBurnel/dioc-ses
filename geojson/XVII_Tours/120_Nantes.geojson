@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Nantes",
+        "province": "XVII_Tours",
         "source": "120_Nantes.txt"
       },
       "geometry": {
@@ -7013,6 +7015,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Nantes",
+        "province": "XVII_Tours",
         "source": "120_Nantes.txt"
       },
       "geometry": {

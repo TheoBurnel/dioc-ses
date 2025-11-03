@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Tours",
+        "province": "XVII_Tours",
         "source": "114_Tours.txt"
       },
       "geometry": {

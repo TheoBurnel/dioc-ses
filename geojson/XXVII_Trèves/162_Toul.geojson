@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Toul",
+        "province": "XXVII_Trèves",
         "source": "162_Toul.txt"
       },
       "geometry": {
@@ -4945,6 +4947,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Toul",
+        "province": "XXVII_Trèves",
         "source": "162_Toul.txt"
       },
       "geometry": {

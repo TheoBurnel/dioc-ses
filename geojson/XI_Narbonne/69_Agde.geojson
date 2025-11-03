@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Agde",
+        "province": "XI_Narbonne",
         "source": "69_Agde.txt"
       },
       "geometry": {

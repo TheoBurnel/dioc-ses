@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Die",
+        "province": "XVIII_Vienne",
         "source": "128_Die.txt"
       },
       "geometry": {

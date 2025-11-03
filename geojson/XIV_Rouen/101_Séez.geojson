@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Séez",
+        "province": "XIV_Rouen",
         "source": "101_Séez.txt"
       },
       "geometry": {

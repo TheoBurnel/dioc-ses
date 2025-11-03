@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Castres",
+        "province": "II_Albi",
         "source": "9_Castres.txt"
       },
       "geometry": {

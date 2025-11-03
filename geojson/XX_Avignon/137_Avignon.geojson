@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Avignon",
+        "province": "XX_Avignon",
         "source": "137_Avignon.txt"
       },
       "geometry": {
@@ -1733,6 +1735,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Avignon",
+        "province": "XX_Avignon",
         "source": "137_Avignon.txt"
       },
       "geometry": {
@@ -1882,6 +1886,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Avignon",
+        "province": "XX_Avignon",
         "source": "137_Avignon.txt"
       },
       "geometry": {
@@ -2031,6 +2037,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Avignon",
+        "province": "XX_Avignon",
         "source": "137_Avignon.txt"
       },
       "geometry": {
@@ -2176,6 +2184,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Avignon",
+        "province": "XX_Avignon",
         "source": "137_Avignon.txt"
       },
       "geometry": {

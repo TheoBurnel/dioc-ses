@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Bourges",
+        "province": "VII_Bourges",
         "source": "45_Bourges.txt"
       },
       "geometry": {

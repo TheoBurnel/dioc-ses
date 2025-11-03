@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Glandèves",
+        "province": "IX_Embrun",
         "source": "57_Glandèves.txt"
       },
       "geometry": {
@@ -2877,6 +2879,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Glandèves",
+        "province": "IX_Embrun",
         "source": "57_Glandèves.txt"
       },
       "geometry": {

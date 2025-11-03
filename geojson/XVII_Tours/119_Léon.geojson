@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Léon",
+        "province": "XVII_Tours",
         "source": "119_Léon.txt"
       },
       "geometry": {
@@ -3053,6 +3055,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Léon",
+        "province": "XVII_Tours",
         "source": "119_Léon.txt"
       },
       "geometry": {

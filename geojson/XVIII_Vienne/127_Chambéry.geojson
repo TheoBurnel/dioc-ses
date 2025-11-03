@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Chambéry",
+        "province": "XVIII_Vienne",
         "source": "127_Chambéry.txt"
       },
       "geometry": {
@@ -2657,6 +2659,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Chambéry",
+        "province": "XVIII_Vienne",
         "source": "127_Chambéry.txt"
       },
       "geometry": {

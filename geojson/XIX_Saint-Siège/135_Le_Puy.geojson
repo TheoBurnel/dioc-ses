@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Le_Puy",
+        "province": "XIX_Saint-Siège",
         "source": "135_Le_Puy.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Tarentaise",
+        "province": "XXVIII_Tarentaise",
         "source": "164_Tarentaise.txt"
       },
       "geometry": {

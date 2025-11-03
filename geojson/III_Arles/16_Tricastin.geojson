@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Tricastin",
+        "province": "III_Arles",
         "source": "16_Tricastin.txt"
       },
       "geometry": {
@@ -1733,6 +1735,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Tricastin",
+        "province": "III_Arles",
         "source": "16_Tricastin.txt"
       },
       "geometry": {

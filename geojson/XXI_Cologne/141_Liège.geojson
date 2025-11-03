@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Liège",
+        "province": "XXI_Cologne",
         "source": "141_Liège.txt"
       },
       "geometry": {

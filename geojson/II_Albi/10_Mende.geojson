@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Mende",
+        "province": "II_Albi",
         "source": "10_Mende.txt"
       },
       "geometry": {

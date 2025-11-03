@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Tarbes",
+        "province": "IV_Auch",
         "source": "29_Tarbes.txt"
       },
       "geometry": {

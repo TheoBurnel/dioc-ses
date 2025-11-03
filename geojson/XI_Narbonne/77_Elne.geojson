@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Elne",
+        "province": "XI_Narbonne",
         "source": "77_Elne.txt"
       },
       "geometry": {

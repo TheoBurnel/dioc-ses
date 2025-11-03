@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Verdun",
+        "province": "XXVII_Trèves",
         "source": "163_Verdun.txt"
       },
       "geometry": {

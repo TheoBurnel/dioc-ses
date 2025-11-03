@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "La_Rochelle",
+        "province": "VI_Bordeaux",
         "source": "42_La_Rochelle.txt"
       },
       "geometry": {
@@ -5121,6 +5123,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "La_Rochelle",
+        "province": "VI_Bordeaux",
         "source": "42_La_Rochelle.txt"
       },
       "geometry": {

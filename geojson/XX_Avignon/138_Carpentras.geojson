@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Carpentras",
+        "province": "XX_Avignon",
         "source": "138_Carpentras.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Arras",
+        "province": "VIII_Cambrai",
         "source": "51_Arras.txt"
       },
       "geometry": {

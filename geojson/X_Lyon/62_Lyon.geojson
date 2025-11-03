@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Lyon",
+        "province": "X_Lyon",
         "source": "62_Lyon.txt"
       },
       "geometry": {

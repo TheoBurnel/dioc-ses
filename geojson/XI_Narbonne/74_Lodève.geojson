@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Lodève",
+        "province": "XI_Narbonne",
         "source": "74_Lodève.txt"
       },
       "geometry": {

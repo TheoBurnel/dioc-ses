@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Agen",
+        "province": "VI_Bordeaux",
         "source": "36_Agen.txt"
       },
       "geometry": {

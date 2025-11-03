@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Meaux",
+        "province": "XII_Paris",
         "source": "83_Meaux.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Sens",
+        "province": "XV_Sens",
         "source": "102_Sens.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saint-Malo",
+        "province": "XVII_Tours",
         "source": "123_Saint-Malo.txt"
       },
       "geometry": {

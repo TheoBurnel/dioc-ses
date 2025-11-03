@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Mariana",
+        "province": "XXII_Gênes",
         "source": "143_Mariana.txt"
       },
       "geometry": {

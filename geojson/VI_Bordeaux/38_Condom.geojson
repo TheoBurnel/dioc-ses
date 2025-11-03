@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Condom",
+        "province": "VI_Bordeaux",
         "source": "38_Condom.txt"
       },
       "geometry": {

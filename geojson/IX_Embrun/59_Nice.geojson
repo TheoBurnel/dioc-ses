@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Nice",
+        "province": "IX_Embrun",
         "source": "59_Nice.txt"
       },
       "geometry": {

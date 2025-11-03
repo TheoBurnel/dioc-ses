@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Mirepoix",
+        "province": "XVI_Toulouse",
         "source": "110_Mirepoix.txt"
       },
       "geometry": {

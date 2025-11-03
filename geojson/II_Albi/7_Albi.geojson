@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Albi",
+        "province": "II_Albi",
         "source": "7_Albi.txt"
       },
       "geometry": {

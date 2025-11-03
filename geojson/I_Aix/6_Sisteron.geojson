@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Sisteron",
+        "province": "I_Aix",
         "source": "6_Sisteron.txt"
       },
       "geometry": {
@@ -809,6 +811,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Sisteron",
+        "province": "I_Aix",
         "source": "6_Sisteron.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Auch",
+        "province": "IV_Auch",
         "source": "18_Auch.txt"
       },
       "geometry": {

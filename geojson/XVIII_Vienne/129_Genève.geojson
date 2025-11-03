@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Genève",
+        "province": "XVIII_Vienne",
         "source": "129_Genève.txt"
       },
       "geometry": {
@@ -3981,6 +3983,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Genève",
+        "province": "XVIII_Vienne",
         "source": "129_Genève.txt"
       },
       "geometry": {

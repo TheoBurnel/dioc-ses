@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Orléans",
+        "province": "XII_Paris",
         "source": "84_Orléans.txt"
       },
       "geometry": {

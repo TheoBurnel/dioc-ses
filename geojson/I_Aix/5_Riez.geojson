@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Riez",
+        "province": "I_Aix",
         "source": "5_Riez.txt"
       },
       "geometry": {

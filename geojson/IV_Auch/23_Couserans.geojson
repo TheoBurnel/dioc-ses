@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Couserans",
+        "province": "IV_Auch",
         "source": "23_Couserans.txt"
       },
       "geometry": {

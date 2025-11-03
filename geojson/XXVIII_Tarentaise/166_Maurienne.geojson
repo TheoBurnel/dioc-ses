@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Maurienne",
+        "province": "XXVIII_Tarentaise",
         "source": "166_Maurienne.txt"
       },
       "geometry": {

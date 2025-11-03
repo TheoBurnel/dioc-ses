@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Uzès",
+        "province": "XI_Narbonne",
         "source": "79_Uzès.txt"
       },
       "geometry": {

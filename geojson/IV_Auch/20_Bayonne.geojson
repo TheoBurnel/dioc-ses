@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Bayonne",
+        "province": "IV_Auch",
         "source": "20_Bayonne.txt"
       },
       "geometry": {

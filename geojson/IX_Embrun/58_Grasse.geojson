@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Grasse",
+        "province": "IX_Embrun",
         "source": "58_Grasse.txt"
       },
       "geometry": {

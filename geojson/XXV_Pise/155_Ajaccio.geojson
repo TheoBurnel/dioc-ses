@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Ajaccio",
+        "province": "XXV_Pise",
         "source": "155_Ajaccio.txt"
       },
       "geometry": {

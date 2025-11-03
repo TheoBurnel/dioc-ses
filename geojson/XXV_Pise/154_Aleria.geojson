@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Aleria",
+        "province": "XXV_Pise",
         "source": "154_Aleria.txt"
       },
       "geometry": {
@@ -4901,6 +4903,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Aleria",
+        "province": "XXV_Pise",
         "source": "154_Aleria.txt"
       },
       "geometry": {
@@ -5006,6 +5010,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Aleria",
+        "province": "XXV_Pise",
         "source": "154_Aleria.txt"
       },
       "geometry": {

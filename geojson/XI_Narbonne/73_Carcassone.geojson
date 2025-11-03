@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Carcassone",
+        "province": "XI_Narbonne",
         "source": "73_Carcassone.txt"
       },
       "geometry": {

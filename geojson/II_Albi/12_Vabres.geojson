@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vabres",
+        "province": "II_Albi",
         "source": "12_Vabres.txt"
       },
       "geometry": {

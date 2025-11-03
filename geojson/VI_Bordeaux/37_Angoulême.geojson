@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Angoulême",
+        "province": "VI_Bordeaux",
         "source": "37_Angoulême.txt"
       },
       "geometry": {

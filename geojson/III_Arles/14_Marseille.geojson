@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Marseille",
+        "province": "III_Arles",
         "source": "14_Marseille.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Lombez",
+        "province": "XVI_Toulouse",
         "source": "108_Lombez.txt"
       },
       "geometry": {

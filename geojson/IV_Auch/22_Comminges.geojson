@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Comminges",
+        "province": "IV_Auch",
         "source": "22_Comminges.txt"
       },
       "geometry": {

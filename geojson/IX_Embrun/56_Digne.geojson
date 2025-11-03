@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Digne",
+        "province": "IX_Embrun",
         "source": "56_Digne.txt"
       },
       "geometry": {

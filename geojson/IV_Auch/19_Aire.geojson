@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Aire",
+        "province": "IV_Auch",
         "source": "19_Aire.txt"
       },
       "geometry": {

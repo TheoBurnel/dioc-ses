@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Laon",
+        "province": "XIII_Reims",
         "source": "90_Laon.txt"
       },
       "geometry": {

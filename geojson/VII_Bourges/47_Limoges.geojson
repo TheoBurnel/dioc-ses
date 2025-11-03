@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Limoges",
+        "province": "VII_Bourges",
         "source": "47_Limoges.txt"
       },
       "geometry": {

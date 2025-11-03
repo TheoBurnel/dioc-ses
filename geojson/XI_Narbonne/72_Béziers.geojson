@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Béziers",
+        "province": "XI_Narbonne",
         "source": "72_Béziers.txt"
       },
       "geometry": {

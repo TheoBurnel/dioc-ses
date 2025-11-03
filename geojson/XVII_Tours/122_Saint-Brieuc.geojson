@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saint-Brieuc",
+        "province": "XVII_Tours",
         "source": "122_Saint-Brieuc.txt"
       },
       "geometry": {

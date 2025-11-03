@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Narbonne",
+        "province": "XI_Narbonne",
         "source": "68_Narbonne.txt"
       },
       "geometry": {

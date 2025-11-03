@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Trèves",
+        "province": "XXVII_Trèves",
         "source": "158_Trèves.txt"
       },
       "geometry": {
@@ -3321,6 +3323,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Trèves",
+        "province": "XXVII_Trèves",
         "source": "158_Trèves.txt"
       },
       "geometry": {

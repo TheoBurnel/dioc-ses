@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Aix",
+        "province": "I_Aix",
         "source": "1_Aix.txt"
       },
       "geometry": {
@@ -2833,6 +2835,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Aix",
+        "province": "I_Aix",
         "source": "1_Aix.txt"
       },
       "geometry": {
@@ -3066,6 +3070,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Aix",
+        "province": "I_Aix",
         "source": "1_Aix.txt"
       },
       "geometry": {
@@ -3475,6 +3481,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Aix",
+        "province": "I_Aix",
         "source": "1_Aix.txt"
       },
       "geometry": {

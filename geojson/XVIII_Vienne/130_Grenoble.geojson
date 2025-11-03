@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Grenoble",
+        "province": "XVIII_Vienne",
         "source": "130_Grenoble.txt"
       },
       "geometry": {

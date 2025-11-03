@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Strasbourg",
+        "province": "XXIV_Mayence",
         "source": "153_Strasbourg.txt"
       },
       "geometry": {
@@ -5697,6 +5699,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Strasbourg",
+        "province": "XXIV_Mayence",
         "source": "153_Strasbourg.txt"
       },
       "geometry": {
@@ -5842,6 +5846,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Strasbourg",
+        "province": "XXIV_Mayence",
         "source": "153_Strasbourg.txt"
       },
       "geometry": {

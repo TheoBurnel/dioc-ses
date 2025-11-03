@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vienne",
+        "province": "XVIII_Vienne",
         "source": "126_Vienne.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Lisieux",
+        "province": "XIV_Rouen",
         "source": "100_Lisieux.txt"
       },
       "geometry": {
@@ -3013,6 +3015,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Lisieux",
+        "province": "XIV_Rouen",
         "source": "100_Lisieux.txt"
       },
       "geometry": {
@@ -3422,6 +3426,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Lisieux",
+        "province": "XIV_Rouen",
         "source": "100_Lisieux.txt"
       },
       "geometry": {
@@ -3831,6 +3837,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Lisieux",
+        "province": "XIV_Rouen",
         "source": "100_Lisieux.txt"
       },
       "geometry": {

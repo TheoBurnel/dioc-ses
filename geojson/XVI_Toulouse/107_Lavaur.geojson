@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Lavaur",
+        "province": "XVI_Toulouse",
         "source": "107_Lavaur.txt"
       },
       "geometry": {

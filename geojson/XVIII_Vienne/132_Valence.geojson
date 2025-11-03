@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Valence",
+        "province": "XVIII_Vienne",
         "source": "132_Valence.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Senez",
+        "province": "IX_Embrun",
         "source": "60_Senez.txt"
       },
       "geometry": {

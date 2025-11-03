@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Lectoure",
+        "province": "IV_Auch",
         "source": "26_Lectoure.txt"
       },
       "geometry": {

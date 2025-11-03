@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Tréguier",
+        "province": "XVII_Tours",
         "source": "124_Tréguier.txt"
       },
       "geometry": {
@@ -3713,6 +3715,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Tréguier",
+        "province": "XVII_Tours",
         "source": "124_Tréguier.txt"
       },
       "geometry": {

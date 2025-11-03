@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Nîmes",
+        "province": "XI_Narbonne",
         "source": "76_Nîmes.txt"
       },
       "geometry": {

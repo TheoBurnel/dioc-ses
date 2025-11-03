@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Sariat",
+        "province": "VI_Bordeaux",
         "source": "44_Sariat.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Toulouse",
+        "province": "XVI_Toulouse",
         "source": "106_Toulouse.txt"
       },
       "geometry": {

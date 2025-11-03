@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Dijon",
+        "province": "X_Lyon",
         "source": "65_Dijon.txt"
       },
       "geometry": {
@@ -4197,6 +4199,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Dijon",
+        "province": "X_Lyon",
         "source": "65_Dijon.txt"
       },
       "geometry": {
@@ -4562,6 +4566,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Dijon",
+        "province": "X_Lyon",
         "source": "65_Dijon.txt"
       },
       "geometry": {

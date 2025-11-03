@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Bordeaux",
+        "province": "VI_Bordeaux",
         "source": "35_Bordeaux.txt"
       },
       "geometry": {
@@ -4769,6 +4771,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Bordeaux",
+        "province": "VI_Bordeaux",
         "source": "35_Bordeaux.txt"
       },
       "geometry": {

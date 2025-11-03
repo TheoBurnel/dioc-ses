@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Embrun",
+        "province": "IX_Embrun",
         "source": "55_Embrun.txt"
       },
       "geometry": {

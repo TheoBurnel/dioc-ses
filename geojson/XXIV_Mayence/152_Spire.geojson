@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Spire",
+        "province": "XXIV_Mayence",
         "source": "152_Spire.txt"
       },
       "geometry": {
@@ -4949,6 +4951,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Spire",
+        "province": "XXIV_Mayence",
         "source": "152_Spire.txt"
       },
       "geometry": {

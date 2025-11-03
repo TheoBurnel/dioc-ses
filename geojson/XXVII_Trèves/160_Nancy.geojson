@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Nancy",
+        "province": "XXVII_Trèves",
         "source": "160_Nancy.txt"
       },
       "geometry": {
@@ -2393,6 +2395,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Nancy",
+        "province": "XXVII_Trèves",
         "source": "160_Nancy.txt"
       },
       "geometry": {

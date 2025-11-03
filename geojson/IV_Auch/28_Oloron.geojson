@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Oloron",
+        "province": "IV_Auch",
         "source": "28_Oloron.txt"
       },
       "geometry": {

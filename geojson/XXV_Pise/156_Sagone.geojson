@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Sagone",
+        "province": "XXV_Pise",
         "source": "156_Sagone.txt"
       },
       "geometry": {

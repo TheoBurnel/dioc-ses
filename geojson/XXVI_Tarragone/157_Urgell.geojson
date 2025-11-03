@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Urgell",
+        "province": "XXVI_Tarragone",
         "source": "157_Urgell.txt"
       },
       "geometry": {

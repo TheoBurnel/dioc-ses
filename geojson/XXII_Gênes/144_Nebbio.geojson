@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Nebbio",
+        "province": "XXII_Gênes",
         "source": "144_Nebbio.txt"
       },
       "geometry": {

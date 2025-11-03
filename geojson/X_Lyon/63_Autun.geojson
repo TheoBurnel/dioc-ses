@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Autun",
+        "province": "X_Lyon",
         "source": "63_Autun.txt"
       },
       "geometry": {

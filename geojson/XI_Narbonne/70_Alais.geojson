@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Alais",
+        "province": "XI_Narbonne",
         "source": "70_Alais.txt"
       },
       "geometry": {

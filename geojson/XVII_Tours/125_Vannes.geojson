@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vannes",
+        "province": "XVII_Tours",
         "source": "125_Vannes.txt"
       },
       "geometry": {
@@ -7413,6 +7415,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vannes",
+        "province": "XVII_Tours",
         "source": "125_Vannes.txt"
       },
       "geometry": {
@@ -7562,6 +7566,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vannes",
+        "province": "XVII_Tours",
         "source": "125_Vannes.txt"
       },
       "geometry": {
@@ -7799,6 +7805,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vannes",
+        "province": "XVII_Tours",
         "source": "125_Vannes.txt"
       },
       "geometry": {
@@ -8076,6 +8084,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vannes",
+        "province": "XVII_Tours",
         "source": "125_Vannes.txt"
       },
       "geometry": {
@@ -8661,6 +8671,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vannes",
+        "province": "XVII_Tours",
         "source": "125_Vannes.txt"
       },
       "geometry": {
@@ -8806,6 +8818,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vannes",
+        "province": "XVII_Tours",
         "source": "125_Vannes.txt"
       },
       "geometry": {
@@ -9039,6 +9053,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vannes",
+        "province": "XVII_Tours",
         "source": "125_Vannes.txt"
       },
       "geometry": {

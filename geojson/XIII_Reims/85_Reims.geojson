@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Reims",
+        "province": "XIII_Reims",
         "source": "85_Reims.txt"
       },
       "geometry": {

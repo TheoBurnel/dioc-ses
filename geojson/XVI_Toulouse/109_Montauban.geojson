@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Montauban",
+        "province": "XVI_Toulouse",
         "source": "109_Montauban.txt"
       },
       "geometry": {

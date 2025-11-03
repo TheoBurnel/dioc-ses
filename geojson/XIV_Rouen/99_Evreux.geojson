@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Evreux",
+        "province": "XIV_Rouen",
         "source": "99_Evreux.txt"
       },
       "geometry": {

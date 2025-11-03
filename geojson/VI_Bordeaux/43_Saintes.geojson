@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saintes",
+        "province": "VI_Bordeaux",
         "source": "43_Saintes.txt"
       },
       "geometry": {
@@ -4637,6 +4639,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saintes",
+        "province": "VI_Bordeaux",
         "source": "43_Saintes.txt"
       },
       "geometry": {
@@ -5442,6 +5446,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saintes",
+        "province": "VI_Bordeaux",
         "source": "43_Saintes.txt"
       },
       "geometry": {
@@ -5719,6 +5725,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saintes",
+        "province": "VI_Bordeaux",
         "source": "43_Saintes.txt"
       },
       "geometry": {

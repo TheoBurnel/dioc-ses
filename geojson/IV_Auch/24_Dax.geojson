@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Dax",
+        "province": "IV_Auch",
         "source": "24_Dax.txt"
       },
       "geometry": {

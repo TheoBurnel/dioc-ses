@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Cambrai",
+        "province": "VIII_Cambrai",
         "source": "50_Cambrai.txt"
       },
       "geometry": {

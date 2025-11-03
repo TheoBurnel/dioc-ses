@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Luçon",
+        "province": "VI_Bordeaux",
         "source": "39_Luçon.txt"
       },
       "geometry": {
@@ -3585,6 +3587,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Luçon",
+        "province": "VI_Bordeaux",
         "source": "39_Luçon.txt"
       },
       "geometry": {
@@ -3950,6 +3954,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Luçon",
+        "province": "VI_Bordeaux",
         "source": "39_Luçon.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Blois",
+        "province": "XII_Paris",
         "source": "81_Blois.txt"
       },
       "geometry": {

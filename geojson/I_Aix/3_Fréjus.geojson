@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Fréjus",
+        "province": "I_Aix",
         "source": "3_Fréjus.txt"
       },
       "geometry": {

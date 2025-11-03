@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Beauvais",
+        "province": "XIII_Reims",
         "source": "87_Beauvais.txt"
       },
       "geometry": {

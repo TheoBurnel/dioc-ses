@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Belley",
+        "province": "V_Besançon",
         "source": "32_Belley.txt"
       },
       "geometry": {
@@ -4153,6 +4155,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Belley",
+        "province": "V_Besançon",
         "source": "32_Belley.txt"
       },
       "geometry": {

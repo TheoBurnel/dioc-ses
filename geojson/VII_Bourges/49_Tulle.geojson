@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Tulle",
+        "province": "VII_Bourges",
         "source": "49_Tulle.txt"
       },
       "geometry": {

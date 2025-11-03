@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Rieux",
+        "province": "XVI_Toulouse",
         "source": "112_Rieux.txt"
       },
       "geometry": {

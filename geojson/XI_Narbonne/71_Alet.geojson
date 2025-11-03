@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Alet",
+        "province": "XI_Narbonne",
         "source": "71_Alet.txt"
       },
       "geometry": {

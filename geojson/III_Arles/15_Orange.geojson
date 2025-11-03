@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Orange",
+        "province": "III_Arles",
         "source": "15_Orange.txt"
       },
       "geometry": {
@@ -1381,6 +1383,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Orange",
+        "province": "III_Arles",
         "source": "15_Orange.txt"
       },
       "geometry": {

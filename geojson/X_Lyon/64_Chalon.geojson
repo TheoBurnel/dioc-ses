@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Chalon",
+        "province": "X_Lyon",
         "source": "64_Chalon.txt"
       },
       "geometry": {
@@ -3493,6 +3495,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Chalon",
+        "province": "X_Lyon",
         "source": "64_Chalon.txt"
       },
       "geometry": {
@@ -4166,6 +4170,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Chalon",
+        "province": "X_Lyon",
         "source": "64_Chalon.txt"
       },
       "geometry": {
@@ -4443,6 +4449,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Chalon",
+        "province": "X_Lyon",
         "source": "64_Chalon.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Pamiers",
+        "province": "XVI_Toulouse",
         "source": "111_Pamiers.txt"
       },
       "geometry": {

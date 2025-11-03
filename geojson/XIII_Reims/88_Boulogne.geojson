@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Boulogne",
+        "province": "XIII_Reims",
         "source": "88_Boulogne.txt"
       },
       "geometry": {

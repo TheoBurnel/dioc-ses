@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Clermont",
+        "province": "VII_Bourges",
         "source": "46_Clermont.txt"
       },
       "geometry": {

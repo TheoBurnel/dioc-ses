@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Cavaillon",
+        "province": "XX_Avignon",
         "source": "139_Cavaillon.txt"
       },
       "geometry": {

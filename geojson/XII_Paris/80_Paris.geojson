@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Paris",
+        "province": "XII_Paris",
         "source": "80_Paris.txt"
       },
       "geometry": {
@@ -3493,6 +3495,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Paris",
+        "province": "XII_Paris",
         "source": "80_Paris.txt"
       },
       "geometry": {
@@ -4078,6 +4082,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Paris",
+        "province": "XII_Paris",
         "source": "80_Paris.txt"
       },
       "geometry": {

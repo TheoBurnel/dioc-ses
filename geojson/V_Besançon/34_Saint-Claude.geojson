@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saint-Claude",
+        "province": "V_Besançon",
         "source": "34_Saint-Claude.txt"
       },
       "geometry": {

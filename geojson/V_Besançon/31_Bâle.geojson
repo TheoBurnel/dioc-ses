@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Bâle",
+        "province": "V_Besançon",
         "source": "31_Bâle.txt"
       },
       "geometry": {

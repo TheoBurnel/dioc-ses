@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Ypres",
+        "province": "XXIII_Malines",
         "source": "151_Ypres.txt"
       },
       "geometry": {

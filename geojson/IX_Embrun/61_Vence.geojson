@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vence",
+        "province": "IX_Embrun",
         "source": "61_Vence.txt"
       },
       "geometry": {

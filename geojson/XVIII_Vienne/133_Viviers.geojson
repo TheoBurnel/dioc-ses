@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Viviers",
+        "province": "XVIII_Vienne",
         "source": "133_Viviers.txt"
       },
       "geometry": {
@@ -3801,6 +3803,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Viviers",
+        "province": "XVIII_Vienne",
         "source": "133_Viviers.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Toulon",
+        "province": "III_Arles",
         "source": "17_Toulon.txt"
       },
       "geometry": {
@@ -2305,6 +2307,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Toulon",
+        "province": "III_Arles",
         "source": "17_Toulon.txt"
       },
       "geometry": {
@@ -2582,6 +2586,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Toulon",
+        "province": "III_Arles",
         "source": "17_Toulon.txt"
       },
       "geometry": {
@@ -2771,6 +2777,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Toulon",
+        "province": "III_Arles",
         "source": "17_Toulon.txt"
       },
       "geometry": {

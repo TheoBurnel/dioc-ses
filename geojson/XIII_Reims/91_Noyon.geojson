@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Noyon",
+        "province": "XIII_Reims",
         "source": "91_Noyon.txt"
       },
       "geometry": {

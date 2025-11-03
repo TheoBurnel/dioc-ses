@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Bazas",
+        "province": "IV_Auch",
         "source": "21_Bazas.txt"
       },
       "geometry": {
@@ -2305,6 +2307,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Bazas",
+        "province": "IV_Auch",
         "source": "21_Bazas.txt"
       },
       "geometry": {

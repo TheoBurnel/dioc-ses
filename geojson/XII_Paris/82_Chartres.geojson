@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Chartres",
+        "province": "XII_Paris",
         "source": "82_Chartres.txt"
       },
       "geometry": {

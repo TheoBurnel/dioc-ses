@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Rennes",
+        "province": "XVII_Tours",
         "source": "121_Rennes.txt"
       },
       "geometry": {

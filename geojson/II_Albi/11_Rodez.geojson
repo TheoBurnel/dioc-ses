@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Rodez",
+        "province": "II_Albi",
         "source": "11_Rodez.txt"
       },
       "geometry": {

@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saint-Papoul",
+        "province": "XVI_Toulouse",
         "source": "113_Saint-Papoul.txt"
       },
       "geometry": {

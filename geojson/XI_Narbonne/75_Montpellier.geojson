@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Montpellier",
+        "province": "XI_Narbonne",
         "source": "75_Montpellier.txt"
       },
       "geometry": {

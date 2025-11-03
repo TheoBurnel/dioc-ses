@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Poitiers",
+        "province": "VI_Bordeaux",
         "source": "41_Poitiers.txt"
       },
       "geometry": {

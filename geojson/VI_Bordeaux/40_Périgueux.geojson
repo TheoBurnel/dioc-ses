@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Périgueux",
+        "province": "VI_Bordeaux",
         "source": "40_Périgueux.txt"
       },
       "geometry": {

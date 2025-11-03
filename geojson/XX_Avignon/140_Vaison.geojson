@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Vaison",
+        "province": "XX_Avignon",
         "source": "140_Vaison.txt"
       },
       "geometry": {

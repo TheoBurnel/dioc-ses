@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Auxerre",
+        "province": "XV_Sens",
         "source": "103_Auxerre.txt"
       },
       "geometry": {

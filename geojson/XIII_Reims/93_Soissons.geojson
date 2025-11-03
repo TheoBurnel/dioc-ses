@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Soissons",
+        "province": "XIII_Reims",
         "source": "93_Soissons.txt"
       },
       "geometry": {

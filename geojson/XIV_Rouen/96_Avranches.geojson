@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Avranches",
+        "province": "XIV_Rouen",
         "source": "96_Avranches.txt"
       },
       "geometry": {

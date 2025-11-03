@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Angers",
+        "province": "XVII_Tours",
         "source": "115_Angers.txt"
       },
       "geometry": {

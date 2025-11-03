@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "diocese": "Saint-Flour",
+        "province": "VII_Bourges",
         "source": "48_Saint-Flour.txt"
       },
       "geometry": {
