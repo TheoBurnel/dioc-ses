@@ -1,6 +1,5 @@
 from svgpathtools import parse_path
 import json
-from glob import glob
 import os
 import re
 
@@ -30,24 +29,39 @@ for folder_name in sorted(os.listdir(input_root)):
     
     print(f"\n📁 Traitement du dossier : {folder_name}")
     
-    # --- récupérer tous les fichiers .txt SAUF les 0_Province_*.txt ---
-    txt_files = [
-        f for f in glob(os.path.join(input_folder, "*.txt"))
-        if not os.path.basename(f).startswith("0_Province_")
-    ]
+    # --- chercher uniquement le fichier 0_Province_*.txt ---
+    province_files = [f for f in os.listdir(input_folder) if f.startswith("0_Province_") and f.endswith(".txt")]
     
-    for txt_file in txt_files:
-        # Extraire le nom du diocèse depuis le nom du fichier (ex: "1_Aix.txt" -> "Aix")
-        diocese_name = os.path.basename(txt_file).replace(".txt", "").split("_", 1)[-1]
-        
+    if not province_files:
+        print(f"⚠️  Aucun fichier 0_Province_*.txt trouvé dans {folder_name}")
+        continue
+    
+    province_file = os.path.join(input_folder, province_files[0])
+    
+    with open(province_file, "r", encoding="utf-8") as f:
+        content = f.read()
+    
+    # --- identifier les sections de diocèses ---
+    # On cherche les sections qui commencent par "# X. DIOCÈSE DE ..."
+    diocese_pattern = r'#{60}\n# \d+\. DIOCÈSE DE ([^\n]+)\n#{60}\n\n(.*?)(?=\n#{60}|\Z)'
+    matches = re.findall(diocese_pattern, content, re.DOTALL)
+    
+    if not matches:
+        print(f"⚠️  Aucun diocèse trouvé dans {province_files[0]}")
+        continue
+    
+    features = []
+    
+    for diocese_name, diocese_content in matches:
+        diocese_name = diocese_name.strip()
         print(f"  📍 Traitement du diocèse : {diocese_name}")
         
-        with open(txt_file, "r", encoding="utf-8") as f:
-            lines = [line.strip() for line in f if line.strip()]
+        # --- extraire les chemins SVG du contenu ---
+        # On suppose que le contenu SVG est tout ce qui ressemble à des commandes SVG
+        svg_lines = [line.strip() for line in diocese_content.split('\n') if line.strip()]
         
         # --- séparer en polygones à chaque M ou m ---
-        path_blocks = re.split(r'(?=[Mm])', " ".join(lines))
-        features = []
+        path_blocks = re.split(r'(?=[Mm])', " ".join(svg_lines))
         
         for block in path_blocks:
             block = block.strip()
@@ -57,7 +71,7 @@ for folder_name in sorted(os.listdir(input_root)):
             try:
                 path = parse_path(block)
             except Exception as e:
-                print(f"    ⚠️ Erreur parsing SVG : {e}")
+                print(f"    ⚠️ Erreur parsing SVG pour {diocese_name}: {e}")
                 continue
             
             coords = []
@@ -77,22 +91,20 @@ for folder_name in sorted(os.listdir(input_root)):
                     "type": "Feature",
                     "properties": {
                         "diocese": diocese_name,
-                        "province": folder_name,
-                        "source": os.path.basename(txt_file)
+                        "province": folder_name
                     },
                     "geometry": {"type": "Polygon", "coordinates": [coords]}
                 })
-        
-        # --- enregistrer le GeoJSON ---
-        fc = {"type": "FeatureCollection", "features": features}
-        output_file = os.path.join(
-            output_folder,
-            os.path.basename(txt_file).replace(".txt", ".geojson")
-        )
-        
-        with open(output_file, "w", encoding="utf-8") as f:
-            json.dump(fc, f, ensure_ascii=False, indent=2)
-        
-        print(f"    ✅ {len(features)} polygones créés dans {output_file}")
+    
+    # --- enregistrer le GeoJSON de la province ---
+    fc = {"type": "FeatureCollection", "features": features}
+    
+    province_name = folder_name.split('_', 1)[-1]
+    output_file = os.path.join(output_folder, f"Province_{province_name}.geojson")
+    
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(fc, f, ensure_ascii=False, indent=2)
+    
+    print(f"✅ {len(features)} polygones créés dans {output_file}")
 
 print("\n🌍 Conversion complète terminée !")
