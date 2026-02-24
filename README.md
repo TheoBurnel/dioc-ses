@@ -32,10 +32,7 @@ Les coordonnées géographiques permettent :
 
 ## 📁 Format des données
 
-Les fichiers sont fournis au format :
-"""
-.json
-"""
+Les fichiers sont fournis au format `.json`.
 
 ---
 
