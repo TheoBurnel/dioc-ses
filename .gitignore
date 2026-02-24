@@ -1,1 +1,12 @@
 hierarchiacathol05eubeuoft.pdf
+
+# Python files
+*.py
+
+# macOS
+.DS_Store
+
+# txt folder
+txt/
+
+
