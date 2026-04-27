@@ -1,42 +1,70 @@
-# Diocèses français, belges et néerlandais en 1789 – Données géoréférencées
+# Diocèses français, belges et néerlandais (1592–1789) – Données géoréférencées
 
 ## 📖 Description
 
-Ce dépôt contient les fichiers **JSON** des diocèses français, belges et des Pays-Bas tels qu’ils existaient à la fin de l’Ancien Régime (France, Belgique et Pays-Bas autrichiens, vers 1789).  
+Ce dépôt propose un ensemble de fichiers **GeoJSON** représentant les diocèses catholiques en latin pour la période **1592–1789**, rattachés à leurs provinces ecclésiastiques selon les informations de la *Hierarchia Catholica*.
 
-Les données ont été **géoréférencées** afin de permettre leur exploitation cartographique et géospatiale (SIG, visualisation web, analyse historique, etc.).  
+👉 Le fichier principal à consulter est : `carte_lat.geojson`.
 
-> ⚠️ Le géoréférencement produit quelques imprécisions.
+Le projet est encore en cours de développement et sera progressivement enrichi.
+
+Les données ont été **géoréférencées** afin de permettre leur exploitation dans des environnements de type **SIG**, des visualisations web ou des analyses en **humanités numériques**.
+
+> ⚠️ Le géoréférencement repose sur des reconstitutions historiques et peut comporter des imprécisions.
 
 ---
 
-## 🗂 Source des données
+## 🗂 Sources des données
 
-- **Diocèses français :** Article Wikipédia *Liste des diocèses de France sous l'Ancien Régime*, réalisé par le contributeur Wikipédia **Maxence Jeanjean**.  
-- **Diocèses belges et néerlandais :** Travaux d’**André Tihon, Clergé séculier et régulier des Pays-Bas autrichiens, 1786**.  
+- **Diocèses français :** article Wikipédia *Liste des diocèses de France sous l'Ancien Régime* (contributions, notamment, de Maxence Jeanjean)  
+- **Diocèses belges et néerlandais :** André Tihon, *Clergé séculier et régulier des Pays-Bas autrichiens* (1786)  
+- **Autres diocèses européens :** projet *EarthWorks* (Stanford University), complété par un travail personnel à partir de sources cartographiques historiques  
 
 ---
 
 ## 🌍 Géoréférencement
 
-Le géoréférencement a été réalisé à partir des sièges épiscopaux historiques des diocèses mentionnés dans les sources.  
+Le géoréférencement repose sur la localisation des **sièges épiscopaux historiques**.
 
-Les coordonnées géographiques permettent :  
+Les données permettent :
 
-- La visualisation cartographique des diocèses à l’échelle des États ou provinces  
-- La visualisation cartographique à l’échelle des diocèses (voir le dossier `geojson`)  
-- L’intégration dans des projets de recherche en humanités numériques  
+- la visualisation cartographique des diocèses et des provinces ecclésiastiques  
+- une analyse diachronique des évolutions diocésaines  
+
+Pour la France, les variations sont prises en compte année par année (modifications territoriales, créations, suppressions).  
+Pour les autres espaces, les évolutions reflètent principalement les changements de rattachement provincial.
 
 ---
 
 ## 📁 Format des données
 
-Les fichiers sont fournis au format `.json`.
+Les fichiers sont fournis au format **GeoJSON** (`.geojson`).
+
+Chaque entité comporte des propriétés standardisées. Exemple :
+
+```json
+"properties": {
+  "diocese": "Aurasicen",
+  "province": "Arelaten",
+  "start": 1592,
+  "end": 1789
+}
+```
+
+- `diocese` : nom latin du diocèse  
+- `province` : province ecclésiastique de rattachement  
+- `start` / `end` : bornes chronologiques de validité (modifiées en cas d’évolution)
 
 ---
 
 ## ⚖️ Licence et attribution
 
-Les données sources proviennent de Wikipédia ou des travaux d’André Tihon et sont donc soumises à la licence **Creative Commons Attribution – Partage dans les Mêmes Conditions (CC BY-SA)**.  
+Les données s’appuient sur :
 
-Merci de citer la source originale ainsi que ce dépôt en cas de réutilisation.
+- Wikipédia (licence **CC BY-SA**)  
+- les travaux d’André Tihon  
+- le projet *EarthWorks* (Stanford University)  
+
+L’ensemble est donc diffusé sous licence **Creative Commons Attribution – Partage dans les Mêmes Conditions (CC BY-SA)**.
+
+Merci de citer les sources originales ainsi que ce dépôt en cas de réutilisation.

@@ -1,4 +1,6 @@
-hierarchiacathol05eubeuoft.pdf
+hierarchiacathol04.pdf
+hierarchiacathol05.pdf
+hierarchiacathol06.pdf
 
 # Python files
 *.py
@@ -6,7 +8,8 @@ hierarchiacathol05eubeuoft.pdf
 # macOS
 .DS_Store
 
-# txt folder
+# folder
 txt/
+France-Belgique/
 
 
