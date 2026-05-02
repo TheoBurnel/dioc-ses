@@ -9,7 +9,7 @@
             "type": "Feature",
             "properties": {
                 "diocese": "Leodien",
-                "province": "Ebredunen",
+                "province": "Colonien",
                 "date": 1592},
             "geometry": {
                 "type": "MultiPolygon",

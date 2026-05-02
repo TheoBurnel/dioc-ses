@@ -1199,7 +1199,7 @@
       "type": "Feature",
       "properties": {
         "diocese": "Minden",
-        "province": "Ebredunen",
+        "province": "Colonien",
         "start": 1592,
         "end": 1648
       },
@@ -1559,7 +1559,7 @@
       "type": "Feature",
       "properties": {
         "diocese": "Leodien",
-        "province": "Ebredunen",
+        "province": "Colonien",
         "start": 1592,
         "end": 1648
       },
