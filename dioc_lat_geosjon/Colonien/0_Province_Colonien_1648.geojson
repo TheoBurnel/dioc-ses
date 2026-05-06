@@ -1200,9 +1200,8 @@
       "properties": {
         "diocese": "Minden",
         "province": "Colonien",
-        "type": "Vicariatus apostolicus",
-        "start": 1592,
-        "end": 1648
+        "start": 1648,
+        "end": 1789
       },
       "geometry": {
         "coordinates": [
