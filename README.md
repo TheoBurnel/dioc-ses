@@ -1,4 +1,4 @@
-# Diocèses français, belges et néerlandais (1592–1789) – Données géoréférencées
+# Projet de géoréférencement des diocèses catholiques du monde (1592-1789)
 
 ## 📖 Description
 
