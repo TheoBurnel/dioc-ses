@@ -7,7 +7,7 @@
         "diocese": "Oscen",
         "province": "Caesaraugustan",
         "start": 1592,
-        "end": 1672
+        "end": 1789
       },
       "geometry": {
         "type": "Polygon",
@@ -139,7 +139,7 @@
         "diocese": "Tirasonen",
         "province": "Caesaraugustan",
         "start": 1592,
-        "end": 1672
+        "end": 1789
       },
       "geometry": {
         "coordinates": [
@@ -429,7 +429,7 @@
         "diocese": "Caesaraugustan",
         "province": "Caesaraugustan",
         "start": 1592,
-        "end": 1672
+        "end": 1789
       },
       "geometry": {
         "coordinates": [
@@ -733,7 +733,7 @@
         "diocese": "Albarracinen",
         "province": "Caesaraugustan",
         "start": 1592,
-        "end": 1672
+        "end": 1789
       },
       "geometry": {
         "type": "Polygon",
@@ -1009,7 +1009,7 @@
         "diocese": "Segobricen",
         "province": "Caesaraugustan",
         "start": 1592,
-        "end": 1672
+        "end": 1789
       },
       "geometry": {
         "type": "Polygon",
@@ -1177,7 +1177,7 @@
         "diocese": "Iacen",
         "province": "Caesaraugustan",
         "start": 1592,
-        "end": 1672
+        "end": 1789
       },
       "geometry": {
         "type": "Polygon",
@@ -2001,7 +2001,7 @@
         "diocese": "Barbastren",
         "province": "Caesaraugustan",
         "start": 1592,
-        "end": 1672
+        "end": 1789
       },
       "geometry": {
         "type": "Polygon",
@@ -2167,7 +2167,7 @@
         "diocese": "Terulen",
         "province": "Caesaraugustan",
         "start": 1592,
-        "end": 1672
+        "end": 1789
       },
       "geometry": {
         "type": "Polygon",
