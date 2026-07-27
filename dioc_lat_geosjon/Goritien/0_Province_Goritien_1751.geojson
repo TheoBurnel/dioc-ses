@@ -569,7 +569,8 @@
       "properties": {
         "diocese": "Comen",
         "province": "Goritien",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       }
     },
     {
@@ -577,7 +578,8 @@
       "properties": {
         "diocese": "Goritien",
         "province": "Goritien",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12746,7 +12748,8 @@
       "properties": {
         "diocese": "Petinen",
         "province": "Goritien",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "Polygon",
@@ -12817,7 +12820,8 @@
       "properties": {
         "diocese": "Tergestin",
         "province": "Goritien",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13038,7 +13042,8 @@
       "properties": {
         "diocese": "Tridentin",
         "province": "Goritien",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "MultiPolygon",

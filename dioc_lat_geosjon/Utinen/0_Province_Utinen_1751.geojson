@@ -6,7 +6,8 @@
       "properties": {
         "diocese": "Aemonien",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "Polygon",
@@ -192,7 +193,8 @@
       "properties": {
         "diocese": "Bellunen",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       }
     },
     {
@@ -200,7 +202,8 @@
       "properties": {
         "diocese": "Ceneten",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -878,7 +881,8 @@
       "properties": {
         "diocese": "Concordien",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       }
     },
     {
@@ -886,7 +890,8 @@
       "properties": {
         "diocese": "Feltren",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1035,7 +1040,8 @@
       "properties": {
         "diocese": "Iustinopolitan",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "Polygon",
@@ -1130,7 +1136,8 @@
       "properties": {
         "diocese": "Mantuan",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1423,7 +1430,8 @@
       "properties": {
         "diocese": "Parentin",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1584,7 +1592,8 @@
       "properties": {
         "diocese": "Patavin",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2072,7 +2081,8 @@
       "properties": {
         "diocese": "Polen",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       }
     },
     {
@@ -2269,7 +2279,8 @@
       "properties": {
         "diocese": "Tarvisin",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       }
     },
     {
@@ -2277,7 +2288,8 @@
       "properties": {
         "diocese": "Utinen",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14762,7 +14774,8 @@
       "properties": {
         "diocese": "Veronen",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15015,7 +15028,8 @@
       "properties": {
         "diocese": "Vicentin",
         "province": "Utinen",
-        "date": 1751
+        "start": 1751,
+        "end": 1789
       },
       "geometry": {
         "type": "MultiPolygon",
